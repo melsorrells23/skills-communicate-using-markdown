@@ -1,6 +1,3 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Hello, World!
+
+![Image of NotOctocat](https://octodex.github.com/images/notocat.jpg)
